@@ -1,2 +1,2 @@
 ## Try it out here
-https://stackblitz.com/github/Krutsch/astro-hydro-js?file=src%2FHi.tsx
+[Stackblitz](https://stackblitz.com/github/Krutsch/astro-hydro-js?file=src%2Fcomponents%2FHi.tsx)
