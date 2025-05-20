@@ -21,7 +21,4 @@ export declare global {
     interface IntrinsicElements
       extends CastToCustomAttributes<HTMLElementTagNameMap> {}
   }
-
-  var hydroJS: Awaited<typeof library>;
-  var hFn: typeof hydroJS.h;
 }

@@ -1,4 +1,4 @@
-const { reactive } = hydroJS;
+import { reactive } from "hydro-js";
 
 export default function Hi() {
   const count = reactive(1);
