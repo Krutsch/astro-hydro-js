@@ -1,5 +1,4 @@
 /// <reference types="astro/client" />
-import type library from "hydro-jsintegrations/server";
 
 type ModifiedEventHandlers<T> = {
   [K in keyof T]: T[K];
