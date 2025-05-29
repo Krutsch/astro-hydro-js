@@ -11,9 +11,9 @@
   "dependencies": {
     "@astrojs/check": "^0.9.4",
     "astro": "^5.8.0",
-    "bausteine": "^1.1.4",
-    "hydro-js": "^1.8.5",
-    "hydro-js-integrations": "^0.1.0",
+    "bausteine": "^1.1.5",
+    "hydro-js": "^1.8.8",
+    "hydro-js-integrations": "^0.1.1",
     "typescript": "^5.8.3"
   }
 }
